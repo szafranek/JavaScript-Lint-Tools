@@ -1,6 +1,6 @@
 # JavaScript Lint Tools for TextMate 2
 
-A bundle for validating JavaScript files with [JSHint](http://jshint.com/) and [JSLint](http://jslint.com/). To be minimally obtrusive validation results are displayed by default in a tooltip. You can override that behavior in bundle configuration.
+A bundle for validating JavaScript files with either [JSHint](http://jshint.com/) or [JSLint](http://jslint.com/). To be minimally obtrusive, validation results are displayed by default in a tooltip. You can override this behavior in bundle configuration.
 
 Three commands are provided:
 
