@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Krzysztof Szafranek</string>
+	<key>description</key>
+	<string>Quick linting of JavaScript files on save. Supports both JSHint and JSLint. Get latest version at https://github.com/szafranek/JavaScript-Lint-tools.tmbundle</string>
+	<key>name</key>
+	<string>JavaScript Lint Tools</string>
+	<key>uuid</key>
+	<string>B49EFC3C-1B7D-41AD-BE7E-EA5CEEDDC4C8</string>
+</dict>
+</plist>
